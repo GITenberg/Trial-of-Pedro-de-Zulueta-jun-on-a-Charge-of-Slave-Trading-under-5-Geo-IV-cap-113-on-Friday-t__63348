@@ -1,5 +1,8 @@
 _repo: Trial-of-Pedro-de-Zulueta-jun-on-a-Charge-of-Slave-Trading-under-5-Geo-IV-cap-113-on-Friday-t__63348
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63348-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Zulueta, Pedro de
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9682
     wikipedia: https://en.wikipedia.org/wiki/William_Brodie_Gurney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63348#Trial-of-Pedro-de-Zulueta-jun-on-a-Charge-of-Slave-Trading-under-5-Geo-IV-cap-113-on-Friday-t_
 gutenberg_issued: '2020-09-30'
 gutenberg_type: Text
 identifiers:
