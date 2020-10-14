@@ -1,0 +1,41 @@
+_repo: Trial-of-Pedro-de-Zulueta-jun-on-a-Charge-of-Slave-Trading-under-5-Geo-IV-cap-113-on-Friday-t__63348
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Zulueta, Pedro de
+    aliases:
+    - Zulueta, Pedro de, Jr.
+    - De Zulueta, Pedro
+    gutenberg_agent_id: '52390'
+    url: http://www.gutenberg.org/2009/agents/52390
+  - agent_name: Gurney, William Brodie
+    alias: Gurney, W. B. (William Brodie)
+    birthdate: 1777
+    deathdate: 1855
+    gutenberg_agent_id: '9682'
+    url: http://www.gutenberg.org/2009/agents/9682
+    wikipedia: https://en.wikipedia.org/wiki/William_Brodie_Gurney
+description: ''
+gutenberg_issued: '2020-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63348'
+  lccn: '11021222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Trial transcripts -- England -- London'
+- !lcc 'HT'
+- !lcsh 'Zulueta, Pedro de -- Trials, litigation, etc.'
+- !lcsh 'Slave trade -- Africa'
+- !lcsh 'Slave traders -- Africa'
+- GITenberg
+title: 'Trial of Pedro de Zulueta, jun., on a Charge of Slave Trading, under 5 Geo.
+  IV, cap. 113, on Friday the 27th, Saturday the 28th, and Monday the 30th of October,
+  1843, at the Central Criminal Court, Old Bailey, London
+
+  A Full Report from the Short-hand Notes of W. B. Gurney, Esq.'
+url: http://www.gutenberg.org/ebooks/63348
